@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bharath/static/css/main.706a15c5.css",
+    "main.js": "/bharath/static/js/main.fd656491.js",
+    "static/js/787.eee498d3.chunk.js": "/bharath/static/js/787.eee498d3.chunk.js",
+    "index.html": "/bharath/index.html",
+    "main.706a15c5.css.map": "/bharath/static/css/main.706a15c5.css.map",
+    "main.fd656491.js.map": "/bharath/static/js/main.fd656491.js.map",
+    "787.eee498d3.chunk.js.map": "/bharath/static/js/787.eee498d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706a15c5.css",
+    "static/js/main.fd656491.js"
+  ]
+}
