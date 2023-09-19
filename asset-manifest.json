@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bharath/static/css/main.706a15c5.css",
-    "main.js": "/bharath/static/js/main.fd656491.js",
-    "static/js/787.eee498d3.chunk.js": "/bharath/static/js/787.eee498d3.chunk.js",
-    "index.html": "/bharath/index.html",
-    "main.706a15c5.css.map": "/bharath/static/css/main.706a15c5.css.map",
-    "main.fd656491.js.map": "/bharath/static/js/main.fd656491.js.map",
-    "787.eee498d3.chunk.js.map": "/bharath/static/js/787.eee498d3.chunk.js.map"
+    "main.css": "/dhineshmarvel46/bharath.git/static/css/main.706a15c5.css",
+    "main.js": "/dhineshmarvel46/bharath.git/static/js/main.a1f1284c.js",
+    "static/js/787.eee498d3.chunk.js": "/dhineshmarvel46/bharath.git/static/js/787.eee498d3.chunk.js",
+    "index.html": "/dhineshmarvel46/bharath.git/index.html",
+    "main.706a15c5.css.map": "/dhineshmarvel46/bharath.git/static/css/main.706a15c5.css.map",
+    "main.a1f1284c.js.map": "/dhineshmarvel46/bharath.git/static/js/main.a1f1284c.js.map",
+    "787.eee498d3.chunk.js.map": "/dhineshmarvel46/bharath.git/static/js/787.eee498d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.706a15c5.css",
-    "static/js/main.fd656491.js"
+    "static/js/main.a1f1284c.js"
   ]
 }
